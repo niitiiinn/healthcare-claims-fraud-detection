@@ -11,7 +11,7 @@ This project investigates which factors actually correlate with fraudulent healt
 3. **Power BI** — Interactive dashboard visualizing fraud trends, risk distribution, and flagged providers
 
 ## Dashboard Preview
-![Dashboard](powerbi/dashboard_page-0001.jpg)
+![Dashboard](healthcare_claims_fraud/powerbi/dashboard_page-0001.jpg)
 
 ## Key Findings
 - **Weak predictors:** Provider specialty (6.99%–9.69% fraud rate), insurance type (8.23%–8.45%), and patient state (7.50%–9.50%) showed only narrow variation — not reliable standalone fraud indicators
